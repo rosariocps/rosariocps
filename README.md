@@ -1,4 +1,4 @@
-## Hi, I'm Rosario 🌼
+# 🌼 Hi, I'm Rosario
 Systems Engineering student | Learning by building
 
 # 💻 Tech Stack:
